@@ -1,0 +1,14 @@
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.exe
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.deps.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.runtimeconfig.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.runtimeconfig.dev.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.dll
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\bin\Debug\netcoreapp3.1\exception_ex.pdb
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.csproj.AssemblyReference.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.AssemblyInfoInputs.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.AssemblyInfo.cs
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.dll
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.pdb
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\exceptions_ex\exception_ex\obj\Debug\netcoreapp3.1\exception_ex.genruntimeconfig.cache
