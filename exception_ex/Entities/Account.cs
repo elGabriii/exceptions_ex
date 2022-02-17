@@ -1,4 +1,5 @@
-﻿using System;
+﻿using exception_ex.Entities.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -23,10 +24,18 @@ namespace exception_ex.Entities
 
         public void deposit(double amount)
         {
+
             Balance += amount;
         }
         public void withdraw(double amount)
         {
+            if (amount > Balance)
+                throw new DomainException("The amount exceeds the balance on this account");
+            else if (amount > WithdrawLimit)
+            {
+                throw new DomainException("The amount exceeds withdraw limit");
+            }
+
             Balance -= amount;
         }
     }
